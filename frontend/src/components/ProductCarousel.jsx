@@ -9,7 +9,7 @@ const ProductCarousel = ({ products, title }) => {
 
   const scroll = (direction) => {
     if (containerRef.current) {
-      const width = containerRef.current.clientWidth; // visible width
+      const width = containerRef.current.clientWidth; // visible width of carousel
       containerRef.current.scrollBy({
         left: direction === "next" ? width : -width,
         behavior: "smooth",

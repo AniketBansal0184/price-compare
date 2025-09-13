@@ -35,7 +35,7 @@ const HeroSection = () => {
               />
               <Button 
                 size="lg"
-                className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-orange-500 hover:bg-orange-600 px-6 rounded-lg shadow-lg"
+                className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-orange-500 hover:bg-orange-600 px-6 rounded-full shadow-lg h-[2.3rem] w-14 p-0"
               >
                 <Search className="h-5 w-5" />
               </Button>

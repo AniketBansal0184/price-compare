@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import CategoryGrid from '../components/CategoryGrid';
-import TouchCarousel from '../components/TouchCarousel';
+import TouchCarousel from '../components/ProductCarousel';
 import DailyDeals from '../components/DailyDeals';
 import Advertisement from '../components/Advertisement';
 import Footer from '../components/Footer';

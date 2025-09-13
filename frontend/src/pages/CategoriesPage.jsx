@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import { Grid, List } from "lucide-react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import TouchCarousel from "../components/TouchCarousel";
+import TouchCarousel from "../components/ProductCarousel";
 import { Button } from "../components/ui/button";
 import {
   Select,

@@ -3,7 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import { Filter, Grid, List, Star, SlidersHorizontal } from 'lucide-react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import TouchCarousel from '../components/TouchCarousel';
+import TouchCarousel from '../components/ProductCarousel';
 import { Card, CardContent } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { Badge } from '../components/ui/badge';
